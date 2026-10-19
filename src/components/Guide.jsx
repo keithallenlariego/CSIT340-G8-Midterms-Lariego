@@ -25,7 +25,8 @@ const Guide = () => {
             git push -u origin main
           </code>
         </section>
-      </main>
+        </main>
+
         </>
     )
 }
